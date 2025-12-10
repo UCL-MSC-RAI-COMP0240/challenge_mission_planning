@@ -77,7 +77,7 @@ git clone https://github.com/UCL-MSC-RAI-COMP0240/challenge_mission_planning.git
 
 Build the workspace as normal within ros2 
 ```bash
-cd /mission_plannin_ws
+cd /mission_planning_ws
 colcon build 
 ```
 
